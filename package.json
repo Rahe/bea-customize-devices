@@ -1,0 +1,17 @@
+{
+	"name": "bea-customize-devices",
+	"version": "1.0.0",
+	"description": "Add the iframe resizer on the customizer",
+	"author": "Nicolas Juen",
+	"devDependencies": {
+		"gulp": "^3.8.1",
+		"gulp-concat": "~2.2.0",
+		"gulp-load-plugins": "^0.5.2",
+		"gulp-uglify": "~0.2.1",
+		"gulp-watch": "~0.6.8",
+		"gulp-jshint" : "~1.9.0",
+		"gulp-uglifycss" : "~1.0.2",
+		"gulp-sourcemaps" : "~1.2.8",
+		"matchdep": "*"
+	}
+}
